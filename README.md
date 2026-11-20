@@ -1,4 +1,6 @@
-# VAGVIN
+# VAGVIN Django demo
+
+Portfolio and local demonstration project.
 
 `VAGVIN` is a Django application for VIN-based vehicle reports, payment handling, and operational monitoring.
 
@@ -28,8 +30,8 @@ The project combines report generation, user accounts, payment providers, and a 
 Clone the repository:
 
 ```bash
-git clone https://github.com/chupakobra6/vagvin.git
-cd vagvin
+git clone https://github.com/chupakobra6/vagvin-django-demo.git
+cd vagvin-django-demo
 ```
 
 Create local configuration:
